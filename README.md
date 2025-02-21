@@ -1,7 +1,7 @@
 # Churn Analysis Dashboard by Power BI
 
 ## Table of Contents
-- [Problem Statement](#-problem-statement)
+- [Problem Statement](#https://github.com/Destyarosa12/Churn-Analysis-Power-BI/tree/main?tab=readme-ov-file#problem-statement)
 - [Objective](#-objective)
 - [Tools Used](#-tools-used)
 - [Dataset Overview](#-dataset-overview)
