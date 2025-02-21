@@ -2,7 +2,7 @@
 
 ## Table of Contents
 - [Problem Statement](#https://github.com/Destyarosa12/Churn-Analysis-Power-BI/tree/main?tab=readme-ov-file#problem-statement)
-- [Objective](#-objective)
+- [Objective](#https://github.com/Destyarosa12/Churn-Analysis-Power-BI/blob/main/README.md#objective)
 - [Tools Used](#-tools-used)
 - [Dataset Overview](#-dataset-overview)
 - [Key Findings](#-key-findings)
