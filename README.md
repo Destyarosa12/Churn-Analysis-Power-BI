@@ -3,12 +3,12 @@
 ## Table of Contents
 - [Problem Statement](#https://github.com/Destyarosa12/Churn-Analysis-Power-BI/tree/main?tab=readme-ov-file#problem-statement)
 - [Objective](#https://github.com/Destyarosa12/Churn-Analysis-Power-BI/blob/main/README.md#objective)
-- [Tools Used](#-tools-used)
-- [Dataset Overview](#-dataset-overview)
-- [Key Findings](#-key-findings)
-- [Recommendations](#-recommendations)
-- [Project Learning](#-project-learning)
-- [Dashboard](#dashboard)
+- [Tools Used](#https://github.com/Destyarosa12/Churn-Analysis-Power-BI/blob/main/README.md#tools-used)
+- [Dataset Overview](#https://github.com/Destyarosa12/Churn-Analysis-Power-BI/blob/main/README.md#dataset-overview)
+- [Key Findings](#https://github.com/Destyarosa12/Churn-Analysis-Power-BI/blob/main/README.md#key-findings)
+- [Recommendations](#https://github.com/Destyarosa12/Churn-Analysis-Power-BI/blob/main/README.md#recommendations)
+- [Project Learning](#https://github.com/Destyarosa12/Churn-Analysis-Power-BI/blob/main/README.md#project-learning)
+- [Dashboard](#https://github.com/Destyarosa12/Churn-Analysis-Power-BI/blob/main/README.md#dashboard)
 
 ## Problem Statement
 Customer churn significantly impact negatively on various aspects in a company such as revenue decrease, increased customer acquisition cost, decreased reputation and brand loyality and of course will have an impact on other fields
